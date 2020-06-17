@@ -3,12 +3,13 @@
   <groupId>com.gmail.jiangyang5157</groupId>
   <artifactId>core</artifactId>
   <versioning>
-    <release>1.1.3</release>
+    <release>1.1.4</release>
     <versions>
       <version>1.1.1</version>
       <version>1.1.2</version>
       <version>1.1.3</version>
+      <version>1.1.4</version>
     </versions>
-    <lastUpdated>20200611040618</lastUpdated>
+    <lastUpdated>20200617215959</lastUpdated>
   </versioning>
 </metadata>
