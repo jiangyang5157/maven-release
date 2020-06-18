@@ -3,13 +3,14 @@
   <groupId>com.gmail.jiangyang5157</groupId>
   <artifactId>kotlin-android-kit</artifactId>
   <versioning>
-    <release>1.1.2</release>
+    <release>1.1.3</release>
     <versions>
       <version>1.0.0</version>
       <version>1.1.0</version>
       <version>1.1.1</version>
       <version>1.1.2</version>
+      <version>1.1.3</version>
     </versions>
-    <lastUpdated>20200611041309</lastUpdated>
+    <lastUpdated>20200618214424</lastUpdated>
   </versioning>
 </metadata>
